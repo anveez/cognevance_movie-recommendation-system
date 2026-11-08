@@ -1,0 +1,51 @@
+userId,movieId,predicted_rating,title,genres
+1,318,4.94,"Shawshank Redemption, The (1994)",Crime|Drama
+1,858,4.92,"Godfather, The (1972)",Crime|Drama
+1,541,4.87,Blade Runner (1982),Action|Sci-Fi|Thriller
+1,912,4.84,Casablanca (1942),Drama|Romance
+1,924,4.82,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi
+1,32,4.77,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+1,7153,4.76,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+1,778,4.74,Trainspotting (1996),Comedy|Crime|Drama
+1,589,4.74,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+1,1221,4.73,"Godfather: Part II, The (1974)",Crime|Drama
+50,1196,3.58,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+50,1221,3.43,"Godfather: Part II, The (1974)",Crime|Drama
+50,260,3.41,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+50,1193,3.4,One Flew Over the Cuckoo's Nest (1975),Drama
+50,1265,3.37,Groundhog Day (1993),Comedy|Fantasy|Romance
+50,1089,3.36,Reservoir Dogs (1992),Crime|Mystery|Thriller
+50,1219,3.36,Psycho (1960),Crime|Horror
+50,912,3.35,Casablanca (1942),Drama|Romance
+50,1222,3.33,Full Metal Jacket (1987),Drama|War
+50,1213,3.32,Goodfellas (1990),Crime|Drama
+150,1,3.93,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+150,318,3.93,"Shawshank Redemption, The (1994)",Crime|Drama
+150,260,3.92,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+150,296,3.89,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+150,457,3.86,"Fugitive, The (1993)",Thriller
+150,110,3.8,Braveheart (1995),Action|Drama|War
+150,480,3.78,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+150,589,3.77,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+150,50,3.77,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+150,593,3.77,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+300,858,4.6,"Godfather, The (1972)",Crime|Drama
+300,1193,4.46,One Flew Over the Cuckoo's Nest (1975),Drama
+300,296,4.46,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+300,1233,4.46,"Boot, Das (Boat, The) (1981)",Action|Drama|War
+300,1247,4.42,"Graduate, The (1967)",Comedy|Drama|Romance
+300,111,4.41,Taxi Driver (1976),Crime|Drama|Thriller
+300,1213,4.41,Goodfellas (1990),Crime|Drama
+300,5816,4.4,Harry Potter and the Chamber of Secrets (2002),Adventure|Fantasy
+300,1183,4.4,"English Patient, The (1996)",Drama|Romance|War
+300,3147,4.4,"Green Mile, The (1999)",Crime|Drama
+500,50,3.65,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+500,2571,3.61,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+500,590,3.61,Dances with Wolves (1990),Adventure|Drama|Western
+500,150,3.58,Apollo 13 (1995),Adventure|Drama|IMAX
+500,2762,3.54,"Sixth Sense, The (1999)",Drama|Horror|Mystery
+500,32,3.54,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+500,457,3.53,"Fugitive, The (1993)",Thriller
+500,593,3.53,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+500,1198,3.52,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+500,527,3.51,Schindler's List (1993),Drama|War
